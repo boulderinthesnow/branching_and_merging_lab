@@ -12,6 +12,13 @@ function frameYourPhrase(phrase) {
      Pay attention to the spacing.  The box should be a square.  In other words,
      the longest word in the phrase will dictate the size of the box.
    */  
+	
+	// one comment added by Lindsay
+	// two comment added by Lindsay
+	// three comment added by Lindsay
+	// fourth comment by Lindsay on new branch
+	// fifth comment
+	
    return "**********\n* Hello  *\n* World! *\n**********";
 }
 //WTF
