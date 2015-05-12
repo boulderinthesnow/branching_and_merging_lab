@@ -17,7 +17,7 @@ function frameYourPhrase(phrase) {
 
 function isPrime(num) {
 
-    for (i = 2 ; i <= num ; i++) {
+    for (i = 2 ; i < num ; i++) {
       if (num % 2 === 0) {
         return false
       }
