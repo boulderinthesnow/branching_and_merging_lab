@@ -14,7 +14,7 @@ function frameYourPhrase(phrase) {
    */  
    return "**********\n* Hello  *\n* World! *\n**********";
 }
-
+//WTF
 function isPrime(num) {
 
     for (i = 2 ; i < num ; i++) {
